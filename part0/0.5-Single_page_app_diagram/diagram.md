@@ -1,4 +1,3 @@
-```mermaid
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa
 server-->browser: HTML-code
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.css
@@ -18,4 +17,3 @@ note over browser:
 browser executes the event handler
 that renders notes to display
 end note
-```

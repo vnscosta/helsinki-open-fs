@@ -1,4 +1,3 @@
-```mermaid
 note over browser:
 the user enters a note into the text field
 the browser executes the event handler
@@ -28,4 +27,3 @@ note over browser:
 the browser executes the event handler
 that renders notes to display
 end note
-```

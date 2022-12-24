@@ -1,4 +1,3 @@
-```mermaid
 note over browser:
 the user enters a note into the text field
 the browser executes the event handler
@@ -13,4 +12,3 @@ array, and render on page
 end note
 
 server-->browser: HTTP 201 Created
-```
